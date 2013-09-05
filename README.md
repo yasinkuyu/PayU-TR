@@ -1,4 +1,4 @@
-PayU TR Payment Processing for CS Cart 3.x  
+CS Cart PayU TR
 ======================================
 
 What is this?
