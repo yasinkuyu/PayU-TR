@@ -1,5 +1,6 @@
 CS Cart PayU TR
 ======================================
+PayU TR Payment Processing for CS Cart 3.x  
 
 What is this?
 --------------
@@ -36,4 +37,3 @@ LICENSE
 
 Copyright &copy; 2013, Yasin Kuyu @yasinkuyu
 All rights reserved.
-
