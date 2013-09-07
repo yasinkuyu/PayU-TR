@@ -12,7 +12,7 @@ How to Install?
 1) Copy the files onto the root of your CS Cart installation  
 2) Go to the following URL (replace mystore with your store URL address)
 
-http://mystore/index.php?dispatch=payment_notification.install&payment=PayU_TR
+http://mystore/index.php?dispatch=payment_notification.install&payment=payu_tr
 
 A message should appear informing you that installation is complete. 
 
@@ -34,5 +34,6 @@ And you're done!
 LICENSE 
 -------
 
-Copyright &copy; 2013, Yasin Kuyu
+Copyright &copy; 2013, Yasin Kuyu @yasinkuyu
 All rights reserved.
+
