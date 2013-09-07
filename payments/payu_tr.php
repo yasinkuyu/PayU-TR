@@ -1,12 +1,12 @@
 <?php
 /***************************************************************************
 *                                                                          *
-*   This file is part of the PayU TR Payment Processor for CS Cart.		   *
-*   Copyright (c) 2013, Yasin Kuyu @yasinkuyu    						   *
+*   This file is part of the PayU TR Payment Processor for CS Cart.        *
+*   Copyright (c) 2013, Yasin Kuyu @yasinkuyu    			   *
 *                                                                          *                                                                         *
-* 	PayU/TR Payment Processor for CS-Cart 3.x							   *
+* 	PayU/TR Payment Processor for CS-Cart 3.x			   *
 *                                                                          *                                                                         *
-* 	https://secure.payu.com.tr/docs/alu/			                       *
+* 	https://secure.payu.com.tr/docs/alu                                *
 *                                                                          *
 ****************************************************************************/
 
