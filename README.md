@@ -1,10 +1,10 @@
-CS Cart PayU TR
+CS Cart PayU TR (3.x / 4.x)
 ======================================
-PayU TR Payment Processing for CS Cart 3.x  
+PayU TR Payment Processing for CS Cart 3.x / 4.x
 
 What is this?
 --------------
-This mod integrates the PayU TR payment processor with CS Cart version 3.x  
+This mod integrates the PayU TR payment processor with CS Cart version 3.x / 4.x 
 
 
 How to Install?
