@@ -41,3 +41,8 @@ All rights reserved.
 
 Destek için;
 https://github.com/yasinkuyu/PayU-TR/issues
+
+Ücretli destek
+Telefon/Email desteği verilmektedir.,
+Güncel sürümler ve özelleştirme talepleri için iletişime geçebilirsiniz.
+yasin@insya.com
